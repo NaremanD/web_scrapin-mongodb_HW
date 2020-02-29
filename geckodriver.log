@@ -162,3 +162,644 @@ JavaScript error: https://mars.nasa.gov/assets/mb_manifest-a0ae601bc18c852649e35
 JavaScript warning: https://mars.nasa.gov/assets/public_manifest-076cf7f80cccb4056eac0fffddf9360fd7fa7cc779f9b9a2f48d0b629ea11fd1.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
 JavaScript error: https://mars.nasa.gov/assets/mb_manifest-a0ae601bc18c852649e350709ab440161da58529f782ae84172c21f8ea27b714.js, line 1: TypeError: this.setViewportHeightVariable is not a function
 JavaScript warning: https://mars.nasa.gov/assets/public_manifest-076cf7f80cccb4056eac0fffddf9360fd7fa7cc779f9b9a2f48d0b629ea11fd1.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1582773956723	Marionette	INFO	Stopped listening on port 52373
+1582909313118	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cw/yck603bd6s7_c7xyf_pfc2w40000gn/T/rust_mozprofiles4vJY4"
+1582909313524	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582909313796	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582909313797	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582909313797	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582909313797	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582909315407	Marionette	INFO	Listening on port 57694
+1582909315486	Marionette	WARN	TLS certificate errors will be ignored for this session
+1582913241754	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cw/yck603bd6s7_c7xyf_pfc2w40000gn/T/rust_mozprofileNXjhpj"
+1582913242113	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582913242316	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582913242316	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582913242316	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582913242316	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582913243795	Marionette	INFO	Listening on port 58497
+1582913243805	Marionette	WARN	TLS certificate errors will be ignored for this session
+1582913783194	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cw/yck603bd6s7_c7xyf_pfc2w40000gn/T/rust_mozprofileacRqlk"
+1582913783549	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582913783787	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582913783787	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582913783787	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582913783787	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582913785143	Marionette	INFO	Listening on port 58736
+1582913785151	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("this.transport is null", "resource://devtools/server/debugger-server-connection.js", 91))
+TypeError: this.transport is null: send@resource://devtools/server/debugger-server-connection.js:91:5
+_sendEvent@resource://devtools/shared/protocol/Actor.js:72:15
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+emit@resource://devtools/shared/event-emitter.js:195:24
+emit@resource://devtools/shared/event-emitter.js:276:18
+_matchesChange@resource://devtools/server/actors/stylesheets.js:148:10
+
+console.error: (new TypeError("this.transport is null", "resource://devtools/server/debugger-server-connection.js", 91))
+TypeError: this.transport is null: send@resource://devtools/server/debugger-server-connection.js:91:5
+_sendEvent@resource://devtools/shared/protocol/Actor.js:72:15
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+emit@resource://devtools/shared/event-emitter.js:195:24
+emit@resource://devtools/shared/event-emitter.js:276:18
+_matchesChange@resource://devtools/server/actors/stylesheets.js:148:10
+
+console.error: (new TypeError("this.transport is null", "resource://devtools/server/debugger-server-connection.js", 91))
+TypeError: this.transport is null: send@resource://devtools/server/debugger-server-connection.js:91:5
+_sendEvent@resource://devtools/shared/protocol/Actor.js:72:15
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+emit@resource://devtools/shared/event-emitter.js:195:24
+emit@resource://devtools/shared/event-emitter.js:276:18
+_matchesChange@resource://devtools/server/actors/stylesheets.js:148:10
+
+console.error: (new TypeError("this.transport is null", "resource://devtools/server/debugger-server-connection.js", 91))
+TypeError: this.transport is null: send@resource://devtools/server/debugger-server-connection.js:91:5
+_sendEvent@resource://devtools/shared/protocol/Actor.js:72:15
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+emit@resource://devtools/shared/event-emitter.js:195:24
+emit@resource://devtools/shared/event-emitter.js:276:18
+_matchesChange@resource://devtools/server/actors/stylesheets.js:148:10
+
+console.error: (new TypeError("this.transport is null", "resource://devtools/server/debugger-server-connection.js", 91))
+TypeError: this.transport is null: send@resource://devtools/server/debugger-server-connection.js:91:5
+_sendEvent@resource://devtools/shared/protocol/Actor.js:72:15
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+emit@resource://devtools/shared/event-emitter.js:195:24
+emit@resource://devtools/shared/event-emitter.js:276:18
+_matchesChange@resource://devtools/server/actors/stylesheets.js:148:10
+
+console.error: (new TypeError("this.transport is null", "resource://devtools/server/debugger-server-connection.js", 91))
+TypeError: this.transport is null: send@resource://devtools/server/debugger-server-connection.js:91:5
+_sendEvent@resource://devtools/shared/protocol/Actor.js:72:15
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+emit@resource://devtools/shared/event-emitter.js:195:24
+emit@resource://devtools/shared/event-emitter.js:276:18
+_matchesChange@resource://devtools/server/actors/stylesheets.js:148:10
+
+console.error: (new TypeError("this.transport is null", "resource://devtools/server/debugger-server-connection.js", 91))
+TypeError: this.transport is null: send@resource://devtools/server/debugger-server-connection.js:91:5
+_sendEvent@resource://devtools/shared/protocol/Actor.js:72:15
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+emit@resource://devtools/shared/event-emitter.js:195:24
+emit@resource://devtools/shared/event-emitter.js:276:18
+_matchesChange@resource://devtools/server/actors/stylesheets.js:148:10
+
+console.error: (new TypeError("this.transport is null", "resource://devtools/server/debugger-server-connection.js", 91))
+TypeError: this.transport is null: send@resource://devtools/server/debugger-server-connection.js:91:5
+_sendEvent@resource://devtools/shared/protocol/Actor.js:72:15
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+emit@resource://devtools/shared/event-emitter.js:195:24
+emit@resource://devtools/shared/event-emitter.js:276:18
+_matchesChange@resource://devtools/server/actors/stylesheets.js:148:10
+
+console.error: (new TypeError("this.transport is null", "resource://devtools/server/debugger-server-connection.js", 91))
+TypeError: this.transport is null: send@resource://devtools/server/debugger-server-connection.js:91:5
+_sendEvent@resource://devtools/shared/protocol/Actor.js:72:15
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+emit@resource://devtools/shared/event-emitter.js:195:24
+emit@resource://devtools/shared/event-emitter.js:276:18
+_matchesChange@resource://devtools/server/actors/stylesheets.js:148:10
+
+console.error: (new TypeError("this.transport is null", "resource://devtools/server/debugger-server-connection.js", 91))
+TypeError: this.transport is null: send@resource://devtools/server/debugger-server-connection.js:91:5
+_sendEvent@resource://devtools/shared/protocol/Actor.js:72:15
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+emit@resource://devtools/shared/event-emitter.js:195:24
+emit@resource://devtools/shared/event-emitter.js:276:18
+_matchesChange@resource://devtools/server/actors/stylesheets.js:148:10
+
+console.error: (new TypeError("this.transport is null", "resource://devtools/server/debugger-server-connection.js", 91))
+TypeError: this.transport is null: send@resource://devtools/server/debugger-server-connection.js:91:5
+_sendEvent@resource://devtools/shared/protocol/Actor.js:72:15
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+emit@resource://devtools/shared/event-emitter.js:195:24
+emit@resource://devtools/shared/event-emitter.js:276:18
+_matchesChange@resource://devtools/server/actors/stylesheets.js:148:10
+
+console.error: (new TypeError("this.transport is null", "resource://devtools/server/debugger-server-connection.js", 91))
+TypeError: this.transport is null: send@resource://devtools/server/debugger-server-connection.js:91:5
+_sendEvent@resource://devtools/shared/protocol/Actor.js:72:15
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+emit@resource://devtools/shared/event-emitter.js:195:24
+emit@resource://devtools/shared/event-emitter.js:276:18
+_matchesChange@resource://devtools/server/actors/stylesheets.js:148:10
+
+console.error: (new TypeError("this.transport is null", "resource://devtools/server/debugger-server-connection.js", 91))
+TypeError: this.transport is null: send@resource://devtools/server/debugger-server-connection.js:91:5
+_sendEvent@resource://devtools/shared/protocol/Actor.js:72:15
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+emit@resource://devtools/shared/event-emitter.js:195:24
+emit@resource://devtools/shared/event-emitter.js:276:18
+_matchesChange@resource://devtools/server/actors/stylesheets.js:148:10
+
+console.error: (new TypeError("this.transport is null", "resource://devtools/server/debugger-server-connection.js", 91))
+TypeError: this.transport is null: send@resource://devtools/server/debugger-server-connection.js:91:5
+_sendEvent@resource://devtools/shared/protocol/Actor.js:72:15
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+emit@resource://devtools/shared/event-emitter.js:195:24
+emit@resource://devtools/shared/event-emitter.js:276:18
+_matchesChange@resource://devtools/server/actors/stylesheets.js:148:10
+
+console.error: (new TypeError("this.transport is null", "resource://devtools/server/debugger-server-connection.js", 91))
+TypeError: this.transport is null: send@resource://devtools/server/debugger-server-connection.js:91:5
+_sendEvent@resource://devtools/shared/protocol/Actor.js:72:15
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+emit@resource://devtools/shared/event-emitter.js:195:24
+emit@resource://devtools/shared/event-emitter.js:276:18
+_matchesChange@resource://devtools/server/actors/stylesheets.js:148:10
+
+console.error: (new TypeError("this.transport is null", "resource://devtools/server/debugger-server-connection.js", 91))
+TypeError: this.transport is null: send@resource://devtools/server/debugger-server-connection.js:91:5
+_sendEvent@resource://devtools/shared/protocol/Actor.js:72:15
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+emit@resource://devtools/shared/event-emitter.js:195:24
+emit@resource://devtools/shared/event-emitter.js:276:18
+_matchesChange@resource://devtools/server/actors/stylesheets.js:148:10
+
+console.error: (new TypeError("this.transport is null", "resource://devtools/server/debugger-server-connection.js", 91))
+TypeError: this.transport is null: send@resource://devtools/server/debugger-server-connection.js:91:5
+_sendEvent@resource://devtools/shared/protocol/Actor.js:72:15
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+emit@resource://devtools/shared/event-emitter.js:195:24
+emit@resource://devtools/shared/event-emitter.js:276:18
+_matchesChange@resource://devtools/server/actors/stylesheets.js:148:10
+
+console.error: (new TypeError("this.transport is null", "resource://devtools/server/debugger-server-connection.js", 91))
+TypeError: this.transport is null: send@resource://devtools/server/debugger-server-connection.js:91:5
+_sendEvent@resource://devtools/shared/protocol/Actor.js:72:15
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+emit@resource://devtools/shared/event-emitter.js:195:24
+emit@resource://devtools/shared/event-emitter.js:276:18
+_matchesChange@resource://devtools/server/actors/stylesheets.js:148:10
+
+console.error: (new TypeError("this.transport is null", "resource://devtools/server/debugger-server-connection.js", 91))
+TypeError: this.transport is null: send@resource://devtools/server/debugger-server-connection.js:91:5
+_sendEvent@resource://devtools/shared/protocol/Actor.js:72:15
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+emit@resource://devtools/shared/event-emitter.js:195:24
+emit@resource://devtools/shared/event-emitter.js:276:18
+_matchesChange@resource://devtools/server/actors/stylesheets.js:148:10
+
+console.error: (new TypeError("this.transport is null", "resource://devtools/server/debugger-server-connection.js", 91))
+TypeError: this.transport is null: send@resource://devtools/server/debugger-server-connection.js:91:5
+_sendEvent@resource://devtools/shared/protocol/Actor.js:72:15
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+emit@resource://devtools/shared/event-emitter.js:195:24
+emit@resource://devtools/shared/event-emitter.js:276:18
+_matchesChange@resource://devtools/server/actors/stylesheets.js:148:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+emit@resource://devtools/shared/event-emitter.js:195:24
+emit@resource://devtools/shared/event-emitter.js:276:18
+getMutations@resource://devtools/shared/fronts/walker.js:411:10
+
+1582914358436	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cw/yck603bd6s7_c7xyf_pfc2w40000gn/T/rust_mozprofilenTPKfm"
+1582914358786	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582914358973	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582914358973	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582914358973	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582914358973	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582914360331	Marionette	INFO	Listening on port 58936
+1582914360383	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Error while calling actor 'stylesheet's method 'getText'" "sheet.ownerNode is null"
+console.error: "getSheetText@resource://devtools/server/actors/stylesheets.js:160:21\n_getText@resource://devtools/server/actors/stylesheets.js:509:12\ngetText@resource://devtools/server/actors/stylesheets.js:492:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new Error("Protocol error (unknownError): sheet.ownerNode is null", "resource://devtools/shared/protocol/Front.js", 276))
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 276: Error: Protocol error (unknownError): sheet.ownerNode is null
+console.error: "Error while calling actor 'stylesheet's method 'getText'" "sheet.ownerNode is null"
+console.error: "getSheetText@resource://devtools/server/actors/stylesheets.js:160:21\n_getText@resource://devtools/server/actors/stylesheets.js:509:12\ngetText@resource://devtools/server/actors/stylesheets.js:492:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'stylesheet's method 'getText'" "sheet.ownerNode is null"
+console.error: "getSheetText@resource://devtools/server/actors/stylesheets.js:160:21\n_getText@resource://devtools/server/actors/stylesheets.js:509:12\ngetText@resource://devtools/server/actors/stylesheets.js:492:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new Error("Protocol error (unknownError): sheet.ownerNode is null", "resource://devtools/shared/protocol/Front.js", 276))
+console.error: (new Error("Protocol error (unknownError): sheet.ownerNode is null", "resource://devtools/shared/protocol/Front.js", 276))
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 276: Error: Protocol error (unknownError): sheet.ownerNode is null
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 276: Error: Protocol error (unknownError): sheet.ownerNode is null
+console.error: "Error while calling actor 'stylesheet's method 'getText'" "sheet.ownerNode is null"
+console.error: "getSheetText@resource://devtools/server/actors/stylesheets.js:160:21\n_getText@resource://devtools/server/actors/stylesheets.js:509:12\ngetText@resource://devtools/server/actors/stylesheets.js:492:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'stylesheet's method 'getText'" "sheet.ownerNode is null"
+console.error: "getSheetText@resource://devtools/server/actors/stylesheets.js:160:21\n_getText@resource://devtools/server/actors/stylesheets.js:509:12\ngetText@resource://devtools/server/actors/stylesheets.js:492:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'stylesheet's method 'getText'" "sheet.ownerNode is null"
+console.error: "getSheetText@resource://devtools/server/actors/stylesheets.js:160:21\n_getText@resource://devtools/server/actors/stylesheets.js:509:12\ngetText@resource://devtools/server/actors/stylesheets.js:492:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'stylesheet's method 'getText'" "sheet.ownerNode is null"
+console.error: "getSheetText@resource://devtools/server/actors/stylesheets.js:160:21\n_getText@resource://devtools/server/actors/stylesheets.js:509:12\ngetText@resource://devtools/server/actors/stylesheets.js:492:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'stylesheet's method 'getText'" "sheet.ownerNode is null"
+console.error: "getSheetText@resource://devtools/server/actors/stylesheets.js:160:21\n_getText@resource://devtools/server/actors/stylesheets.js:509:12\ngetText@resource://devtools/server/actors/stylesheets.js:492:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new Error("Protocol error (unknownError): sheet.ownerNode is null", "resource://devtools/shared/protocol/Front.js", 276))
+console.error: (new Error("Protocol error (unknownError): sheet.ownerNode is null", "resource://devtools/shared/protocol/Front.js", 276))
+console.error: (new Error("Protocol error (unknownError): sheet.ownerNode is null", "resource://devtools/shared/protocol/Front.js", 276))
+console.error: "Error while calling actor 'stylesheet's method 'getText'" "sheet.ownerNode is null"
+console.error: "getSheetText@resource://devtools/server/actors/stylesheets.js:160:21\n_getText@resource://devtools/server/actors/stylesheets.js:509:12\ngetText@resource://devtools/server/actors/stylesheets.js:492:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'stylesheet's method 'getText'" "sheet.ownerNode is null"
+console.error: "getSheetText@resource://devtools/server/actors/stylesheets.js:160:21\n_getText@resource://devtools/server/actors/stylesheets.js:509:12\ngetText@resource://devtools/server/actors/stylesheets.js:492:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'stylesheet's method 'getText'" "sheet.ownerNode is null"
+console.error: "getSheetText@resource://devtools/server/actors/stylesheets.js:160:21\n_getText@resource://devtools/server/actors/stylesheets.js:509:12\ngetText@resource://devtools/server/actors/stylesheets.js:492:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'stylesheet's method 'getText'" "sheet.ownerNode is null"
+console.error: "getSheetText@resource://devtools/server/actors/stylesheets.js:160:21\n_getText@resource://devtools/server/actors/stylesheets.js:509:12\ngetText@resource://devtools/server/actors/stylesheets.js:492:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'stylesheet's method 'getText'" "sheet.ownerNode is null"
+console.error: "getSheetText@resource://devtools/server/actors/stylesheets.js:160:21\n_getText@resource://devtools/server/actors/stylesheets.js:509:12\ngetText@resource://devtools/server/actors/stylesheets.js:492:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'stylesheet's method 'getText'" "sheet.ownerNode is null"
+console.error: "getSheetText@resource://devtools/server/actors/stylesheets.js:160:21\n_getText@resource://devtools/server/actors/stylesheets.js:509:12\ngetText@resource://devtools/server/actors/stylesheets.js:492:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'stylesheet's method 'getText'" "sheet.ownerNode is null"
+console.error: "getSheetText@resource://devtools/server/actors/stylesheets.js:160:21\n_getText@resource://devtools/server/actors/stylesheets.js:509:12\ngetText@resource://devtools/server/actors/stylesheets.js:492:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'stylesheet's method 'getText'" "sheet.ownerNode is null"
+console.error: "getSheetText@resource://devtools/server/actors/stylesheets.js:160:21\n_getText@resource://devtools/server/actors/stylesheets.js:509:12\ngetText@resource://devtools/server/actors/stylesheets.js:492:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'stylesheet's method 'getText'" "sheet.ownerNode is null"
+console.error: "getSheetText@resource://devtools/server/actors/stylesheets.js:160:21\n_getText@resource://devtools/server/actors/stylesheets.js:509:12\ngetText@resource://devtools/server/actors/stylesheets.js:492:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'stylesheet's method 'getText'" "sheet.ownerNode is null"
+console.error: "getSheetText@resource://devtools/server/actors/stylesheets.js:160:21\n_getText@resource://devtools/server/actors/stylesheets.js:509:12\ngetText@resource://devtools/server/actors/stylesheets.js:492:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'stylesheet's method 'getText'" "sheet.ownerNode is null"
+console.error: "getSheetText@resource://devtools/server/actors/stylesheets.js:160:21\n_getText@resource://devtools/server/actors/stylesheets.js:509:12\ngetText@resource://devtools/server/actors/stylesheets.js:492:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'stylesheet's method 'getText'" "sheet.ownerNode is null"
+console.error: "getSheetText@resource://devtools/server/actors/stylesheets.js:160:21\n_getText@resource://devtools/server/actors/stylesheets.js:509:12\ngetText@resource://devtools/server/actors/stylesheets.js:492:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new Error("Protocol error (unknownError): sheet.ownerNode is null", "resource://devtools/shared/protocol/Front.js", 276))
+console.error: "Error while calling actor 'stylesheet's method 'getText'" "sheet.ownerNode is null"
+console.error: "getSheetText@resource://devtools/server/actors/stylesheets.js:160:21\n_getText@resource://devtools/server/actors/stylesheets.js:509:12\ngetText@resource://devtools/server/actors/stylesheets.js:492:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new Error("Protocol error (unknownError): sheet.ownerNode is null", "resource://devtools/shared/protocol/Front.js", 276))
+console.error: "Error while calling actor 'stylesheet's method 'getText'" "sheet.ownerNode is null"
+console.error: "getSheetText@resource://devtools/server/actors/stylesheets.js:160:21\n_getText@resource://devtools/server/actors/stylesheets.js:509:12\ngetText@resource://devtools/server/actors/stylesheets.js:492:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 276: Error: Protocol error (unknownError): sheet.ownerNode is null
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 276: Error: Protocol error (unknownError): sheet.ownerNode is null
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 276: Error: Protocol error (unknownError): sheet.ownerNode is null
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 276: Error: Protocol error (unknownError): sheet.ownerNode is null
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 276: Error: Protocol error (unknownError): sheet.ownerNode is null
+console.error: (new Error("Protocol error (unknownError): sheet.ownerNode is null", "resource://devtools/shared/protocol/Front.js", 276))
+console.error: (new Error("Protocol error (unknownError): sheet.ownerNode is null", "resource://devtools/shared/protocol/Front.js", 276))
+console.error: (new Error("Protocol error (unknownError): sheet.ownerNode is null", "resource://devtools/shared/protocol/Front.js", 276))
+console.error: (new Error("Protocol error (unknownError): sheet.ownerNode is null", "resource://devtools/shared/protocol/Front.js", 276))
+console.error: (new Error("Protocol error (unknownError): sheet.ownerNode is null", "resource://devtools/shared/protocol/Front.js", 276))
+console.error: (new Error("Protocol error (unknownError): sheet.ownerNode is null", "resource://devtools/shared/protocol/Front.js", 276))
+console.error: (new Error("Protocol error (unknownError): sheet.ownerNode is null", "resource://devtools/shared/protocol/Front.js", 276))
+console.error: (new Error("Protocol error (unknownError): sheet.ownerNode is null", "resource://devtools/shared/protocol/Front.js", 276))
+console.error: (new Error("Protocol error (unknownError): sheet.ownerNode is null", "resource://devtools/shared/protocol/Front.js", 276))
+console.error: (new Error("Protocol error (unknownError): sheet.ownerNode is null", "resource://devtools/shared/protocol/Front.js", 276))
+console.error: (new Error("Protocol error (unknownError): sheet.ownerNode is null", "resource://devtools/shared/protocol/Front.js", 276))
+console.error: (new Error("Protocol error (unknownError): sheet.ownerNode is null", "resource://devtools/shared/protocol/Front.js", 276))
+console.error: (new Error("Protocol error (unknownError): sheet.ownerNode is null", "resource://devtools/shared/protocol/Front.js", 276))
+console.error: (new Error("Protocol error (unknownError): sheet.ownerNode is null", "resource://devtools/shared/protocol/Front.js", 276))
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 276: Error: Protocol error (unknownError): sheet.ownerNode is null
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 276: Error: Protocol error (unknownError): sheet.ownerNode is null
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 276: Error: Protocol error (unknownError): sheet.ownerNode is null
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 276: Error: Protocol error (unknownError): sheet.ownerNode is null
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 276: Error: Protocol error (unknownError): sheet.ownerNode is null
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 276: Error: Protocol error (unknownError): sheet.ownerNode is null
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 276: Error: Protocol error (unknownError): sheet.ownerNode is null
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 276: Error: Protocol error (unknownError): sheet.ownerNode is null
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 276: Error: Protocol error (unknownError): sheet.ownerNode is null
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 276: Error: Protocol error (unknownError): sheet.ownerNode is null
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 276: Error: Protocol error (unknownError): sheet.ownerNode is null
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 276: Error: Protocol error (unknownError): sheet.ownerNode is null
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 276: Error: Protocol error (unknownError): sheet.ownerNode is null
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 276: Error: Protocol error (unknownError): sheet.ownerNode is null
+console.error: "Error while calling actor 'stylesheet's method 'getText'" "sheet.ownerNode is null"
+console.error: "getSheetText@resource://devtools/server/actors/stylesheets.js:160:21\n_getText@resource://devtools/server/actors/stylesheets.js:509:12\ngetText@resource://devtools/server/actors/stylesheets.js:492:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new Error("Protocol error (unknownError): sheet.ownerNode is null", "resource://devtools/shared/protocol/Front.js", 276))
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 276: Error: Protocol error (unknownError): sheet.ownerNode is null
+console.error: "Error while calling actor 'stylesheet's method 'getText'" "sheet.ownerNode is null"
+console.error: "getSheetText@resource://devtools/server/actors/stylesheets.js:160:21\n_getText@resource://devtools/server/actors/stylesheets.js:509:12\ngetText@resource://devtools/server/actors/stylesheets.js:492:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'stylesheet's method 'getText'" "sheet.ownerNode is null"
+console.error: "getSheetText@resource://devtools/server/actors/stylesheets.js:160:21\n_getText@resource://devtools/server/actors/stylesheets.js:509:12\ngetText@resource://devtools/server/actors/stylesheets.js:492:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new Error("Protocol error (unknownError): sheet.ownerNode is null", "resource://devtools/shared/protocol/Front.js", 276))
+console.error: (new Error("Protocol error (unknownError): sheet.ownerNode is null", "resource://devtools/shared/protocol/Front.js", 276))
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 276: Error: Protocol error (unknownError): sheet.ownerNode is null
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 276: Error: Protocol error (unknownError): sheet.ownerNode is null
+1582916419453	Marionette	INFO	Stopped listening on port 58936
+1582916421973	Marionette	INFO	Stopped listening on port 58736
+1582916424458	Marionette	INFO	Stopped listening on port 58497
+1582916426642	Marionette	INFO	Stopped listening on port 57694
+1582916433660	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cw/yck603bd6s7_c7xyf_pfc2w40000gn/T/rust_mozprofilemS2GHC"
+1582916434040	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582916434238	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582916434238	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582916434238	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582916434238	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582916435670	Marionette	INFO	Listening on port 59326
+1582916435725	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+1582917329459	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cw/yck603bd6s7_c7xyf_pfc2w40000gn/T/rust_mozprofilenYJxyO"
+1582917329836	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582917330033	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582917330033	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582917330033	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582917330033	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582917331528	Marionette	INFO	Listening on port 59495
+1582917331630	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+emit@resource://devtools/shared/event-emitter.js:195:24
+emit@resource://devtools/shared/event-emitter.js:276:18
+getMutations@resource://devtools/shared/fronts/walker.js:411:10
+
+console.error: "navigated; resolution of _defaultNode aborted"
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1582917609070	Marionette	INFO	Stopped listening on port 59495
+1582917618787	Marionette	INFO	Stopped listening on port 59326
+1582917624061	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cw/yck603bd6s7_c7xyf_pfc2w40000gn/T/rust_mozprofilet7N3fF"
+1582917624404	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582917624615	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582917624615	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582917624615	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582917624615	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582917626137	Marionette	INFO	Listening on port 59657
+1582917626230	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mars.nasa.gov/assets/public_manifest-076cf7f80cccb4056eac0fffddf9360fd7fa7cc779f9b9a2f48d0b629ea11fd1.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://mars.nasa.gov/assets/mb_manifest-a0ae601bc18c852649e350709ab440161da58529f782ae84172c21f8ea27b714.js, line 1: TypeError: this.setViewportHeightVariable is not a function
+JavaScript warning: https://mars.nasa.gov/assets/public_manifest-076cf7f80cccb4056eac0fffddf9360fd7fa7cc779f9b9a2f48d0b629ea11fd1.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+1582920979890	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cw/yck603bd6s7_c7xyf_pfc2w40000gn/T/rust_mozprofileCucYgp"
+1582920980243	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582920980441	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582920980441	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582920980441	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582920980441	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582920981994	Marionette	INFO	Listening on port 60400
+1582920982058	Marionette	WARN	TLS certificate errors will be ignored for this session
+1582921002747	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cw/yck603bd6s7_c7xyf_pfc2w40000gn/T/rust_mozprofilenmqZL7"
+1582921003092	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582921003304	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582921003304	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582921003304	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582921003304	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582921004715	Marionette	INFO	Listening on port 60474
+1582921004817	Marionette	WARN	TLS certificate errors will be ignored for this session
+1582921012706	Marionette	INFO	Stopped listening on port 60400
+1582921077949	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cw/yck603bd6s7_c7xyf_pfc2w40000gn/T/rust_mozprofile7tpbfN"
+1582921078312	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582921078501	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582921078501	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582921078501	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582921078501	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582921079910	Marionette	INFO	Listening on port 60557
+1582921080010	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 581: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 581: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1582921087371	Marionette	INFO	Stopped listening on port 60557
+1582951699988	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cw/yck603bd6s7_c7xyf_pfc2w40000gn/T/rust_mozprofilekFHq1C"
+1582951700543	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582951700741	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582951700742	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582951700742	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582951700742	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582951702559	Marionette	INFO	Listening on port 61481
+1582951702646	Marionette	WARN	TLS certificate errors will be ignored for this session
+1582952331002	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cw/yck603bd6s7_c7xyf_pfc2w40000gn/T/rust_mozprofile6h5GQj"
+1582952331343	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582952331536	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582952331542	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582952331542	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582952331542	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582952332911	Marionette	INFO	Listening on port 61698
+1582952332954	Marionette	WARN	TLS certificate errors will be ignored for this session
+1582952340361	Marionette	INFO	Stopped listening on port 59657
+1582952343041	Marionette	INFO	Stopped listening on port 60474
+1582952346111	Marionette	INFO	Stopped listening on port 61481
+1582952550047	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cw/yck603bd6s7_c7xyf_pfc2w40000gn/T/rust_mozprofileH3QiUf"
+1582952550383	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582952550578	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582952550578	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582952550578	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582952550578	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582952551928	Marionette	INFO	Listening on port 61802
+1582952551997	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+emit@resource://devtools/shared/event-emitter.js:195:24
+emit@resource://devtools/shared/event-emitter.js:276:18
+getMutations@resource://devtools/shared/fronts/walker.js:411:10
+
+console.error: (new TypeError("nodeFront.walkerFront is null", "resource://devtools/client/inspector/markup/markup.js", 925))
+TypeError: nodeFront.walkerFront is null: _onNewSelection@resource://devtools/client/inspector/markup/markup.js:925:7
+emit@resource://devtools/shared/event-emitter.js:195:24
+emit@resource://devtools/shared/event-emitter.js:276:18
+setNodeFront@resource://devtools/client/framework/selection.js:161:10
+onDetached@resource://devtools/client/inspector/inspector.js:1691:20
+emit@resource://devtools/shared/event-emitter.js:195:24
+emit@resource://devtools/shared/event-emitter.js:276:18
+_onMutations@resource://devtools/client/framework/selection.js:104:12
+emit@resource://devtools/shared/event-emitter.js:195:24
+emit@resource://devtools/shared/event-emitter.js:276:18
+getMutations@resource://devtools/shared/fronts/walker.js:411:10
+
+console.error: (new Error("Can not send request 'getAllSelectors' because front 'domnode' is already destroyed.", "resource://devtools/shared/protocol/Front/FrontClassWithSpec.js", 29))
+JavaScript error: resource://devtools/client/inspector/inspector.js, line 1602: TypeError: targetFront is null
+1582952725449	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cw/yck603bd6s7_c7xyf_pfc2w40000gn/T/rust_mozprofilensOCcV"
+1582952725787	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582952725985	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582952725985	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582952725985	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582952725985	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582952727389	Marionette	INFO	Listening on port 61917
+1582952727412	Marionette	WARN	TLS certificate errors will be ignored for this session
+1582953618321	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cw/yck603bd6s7_c7xyf_pfc2w40000gn/T/rust_mozprofilePHnIk5"
+1582953618688	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582953618883	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582953618883	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582953618883	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582953618883	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582953620412	Marionette	INFO	Listening on port 62113
+1582953620473	Marionette	WARN	TLS certificate errors will be ignored for this session
+1582953630999	Marionette	INFO	Stopped listening on port 62113
+1582953881412	Marionette	INFO	Stopped listening on port 61917
+1582953896173	Marionette	INFO	Stopped listening on port 61802
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+emit@resource://devtools/shared/event-emitter.js:195:24
+emit@resource://devtools/shared/event-emitter.js:276:18
+getMutations@resource://devtools/shared/fronts/walker.js:411:10
+
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/server/actors/styles.js:944:5\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new Error("Protocol error (unknownError): node is null", "resource://devtools/shared/protocol/Front.js", 276))
+1582954436814	Marionette	INFO	Stopped listening on port 61698
+1582954443495	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cw/yck603bd6s7_c7xyf_pfc2w40000gn/T/rust_mozprofileC6ndFC"
+1582954443852	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582954444034	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582954444034	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582954444034	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582954444034	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582954445445	Marionette	INFO	Listening on port 62296
+1582954445551	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+emit@resource://devtools/shared/event-emitter.js:195:24
+emit@resource://devtools/shared/event-emitter.js:276:18
+getMutations@resource://devtools/shared/fronts/walker.js:411:10
+
+console.error: "getLayout@resource://devtools/server/actors/styles.js:944:5\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new Error("Protocol error (unknownError): node is null", "resource://devtools/shared/protocol/Front.js", 276))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+emit@resource://devtools/shared/event-emitter.js:195:24
+emit@resource://devtools/shared/event-emitter.js:276:18
+getMutations@resource://devtools/shared/fronts/walker.js:411:10
+
+1582955854235	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cw/yck603bd6s7_c7xyf_pfc2w40000gn/T/rust_mozprofileDqP8dF"
+1582955854634	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582955854833	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582955854833	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582955854833	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582955854833	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582955856339	Marionette	INFO	Listening on port 62603
+1582955856375	Marionette	WARN	TLS certificate errors will be ignored for this session
+1582955870676	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cw/yck603bd6s7_c7xyf_pfc2w40000gn/T/rust_mozprofilealpG3u"
+1582955871012	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582955871210	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582955871210	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582955871210	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582955871210	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582955872568	Marionette	INFO	Listening on port 62680
+1582955872619	Marionette	WARN	TLS certificate errors will be ignored for this session
+1582956010980	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cw/yck603bd6s7_c7xyf_pfc2w40000gn/T/rust_mozprofile68p8k4"
+1582956011340	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582956011534	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582956011534	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582956011534	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582956011534	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582956013033	Marionette	INFO	Listening on port 62779
+1582956013136	Marionette	WARN	TLS certificate errors will be ignored for this session
+1582956176506	Marionette	INFO	Stopped listening on port 62779
+1582956179685	Marionette	INFO	Stopped listening on port 62680
+1582956181906	Marionette	INFO	Stopped listening on port 62603
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+emit@resource://devtools/shared/event-emitter.js:195:24
+emit@resource://devtools/shared/event-emitter.js:276:18
+getMutations@resource://devtools/shared/fronts/walker.js:411:10
+
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/server/actors/styles.js:944:5\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new Error("Protocol error (unknownError): node is null", "resource://devtools/shared/protocol/Front.js", 276))
+1582956247997	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cw/yck603bd6s7_c7xyf_pfc2w40000gn/T/rust_mozprofileZnB6h7"
+1582956248356	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582956248540	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582956248540	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582956248540	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582956248540	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582956249931	Marionette	INFO	Listening on port 62889
+1582956249941	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+1582956567473	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cw/yck603bd6s7_c7xyf_pfc2w40000gn/T/rust_mozprofile9b7KKq"
+1582956567812	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582956568004	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582956568004	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582956568004	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582956568004	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582956569337	Marionette	INFO	Listening on port 63001
+1582956569420	Marionette	WARN	TLS certificate errors will be ignored for this session
+1582956738456	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cw/yck603bd6s7_c7xyf_pfc2w40000gn/T/rust_mozprofilexWKW8I"
+1582956738857	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582956739040	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582956739040	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582956739040	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582956739040	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582956740556	Marionette	INFO	Listening on port 63102
+1582956740619	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mars.nasa.gov/assets/public_manifest-076cf7f80cccb4056eac0fffddf9360fd7fa7cc779f9b9a2f48d0b629ea11fd1.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://mars.nasa.gov/assets/mb_manifest-a0ae601bc18c852649e350709ab440161da58529f782ae84172c21f8ea27b714.js, line 1: TypeError: this.setViewportHeightVariable is not a function
+1582956790166	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cw/yck603bd6s7_c7xyf_pfc2w40000gn/T/rust_mozprofileR3mk0K"
+1582956790624	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582956790832	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582956790832	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582956790832	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582956790832	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582956792435	Marionette	INFO	Listening on port 63198
+1582956792508	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mars.nasa.gov/assets/public_manifest-076cf7f80cccb4056eac0fffddf9360fd7fa7cc779f9b9a2f48d0b629ea11fd1.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://mars.nasa.gov/assets/public_manifest-076cf7f80cccb4056eac0fffddf9360fd7fa7cc779f9b9a2f48d0b629ea11fd1.js, line 79: TypeError: window.getComputedStyle(...) is null
+JavaScript error: https://mars.nasa.gov/assets/public_manifest-076cf7f80cccb4056eac0fffddf9360fd7fa7cc779f9b9a2f48d0b629ea11fd1.js, line 205: TypeError: window.getComputedStyle(...) is null
+1582956800355	Marionette	INFO	Stopped listening on port 63198
+1582956832042	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cw/yck603bd6s7_c7xyf_pfc2w40000gn/T/rust_mozprofileyUg7PQ"
+1582956832407	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582956832620	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582956832621	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582956832621	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582956832621	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582956834106	Marionette	INFO	Listening on port 63269
+1582956834181	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mars.nasa.gov/assets/public_manifest-076cf7f80cccb4056eac0fffddf9360fd7fa7cc779f9b9a2f48d0b629ea11fd1.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://mars.nasa.gov/assets/mb_manifest-a0ae601bc18c852649e350709ab440161da58529f782ae84172c21f8ea27b714.js, line 1: TypeError: this.setViewportHeightVariable is not a function
+1582956909954	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cw/yck603bd6s7_c7xyf_pfc2w40000gn/T/rust_mozprofileCZamTx"
+1582956910407	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582956910622	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582956910623	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582956910623	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582956910623	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582956912257	Marionette	INFO	Listening on port 63387
+1582956912320	Marionette	WARN	TLS certificate errors will be ignored for this session
+1582956958559	Marionette	INFO	Stopped listening on port 63387
+1582956961792	Marionette	INFO	Stopped listening on port 63269
+1582956964270	Marionette	INFO	Stopped listening on port 63102
+1582956966612	Marionette	INFO	Stopped listening on port 63001
+1582956969035	Marionette	INFO	Stopped listening on port 62889
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+emit@resource://devtools/shared/event-emitter.js:195:24
+emit@resource://devtools/shared/event-emitter.js:276:18
+getMutations@resource://devtools/shared/fronts/walker.js:411:10
+
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/server/actors/styles.js:944:5\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new Error("Protocol error (unknownError): node is null", "resource://devtools/shared/protocol/Front.js", 276))
+1582957993259	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cw/yck603bd6s7_c7xyf_pfc2w40000gn/T/rust_mozprofileg2xWXZ"
+1582957993620	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582957993814	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582957993814	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582957993814	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582957993814	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582957995159	Marionette	INFO	Listening on port 63711
+1582957995202	Marionette	WARN	TLS certificate errors will be ignored for this session
+1582958042946	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cw/yck603bd6s7_c7xyf_pfc2w40000gn/T/rust_mozprofileiJ4L3G"
+1582958043286	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582958043469	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582958043469	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582958043469	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582958043469	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582958044807	Marionette	INFO	Listening on port 63780
+1582958044903	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBDatabase::Msg_PBackgroundIDBTransactionConstructor Value error: message was deserialized, but contained an illegal value
+
+1582958049627	Marionette	INFO	Stopped listening on port 63711
+1582959419306	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cw/yck603bd6s7_c7xyf_pfc2w40000gn/T/rust_mozprofilesHv8HG"
+1582959419711	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582959419907	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582959419907	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582959419907	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582959419907	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582959421409	Marionette	INFO	Listening on port 64198
+1582959421451	Marionette	WARN	TLS certificate errors will be ignored for this session
+1582960538284	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cw/yck603bd6s7_c7xyf_pfc2w40000gn/T/rust_mozprofilenPlcYL"
+1582960538673	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582960538874	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582960538874	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582960538874	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582960538874	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582960540262	Marionette	INFO	Listening on port 64588
+1582960540345	Marionette	WARN	TLS certificate errors will be ignored for this session
