@@ -1,16 +1,12 @@
 # import Dependencies 
-import time
 from bs4 import BeautifulSoup 
 import requests
 from selenium import webdriver 
-import pandas as pd
-def init_driver():
-    driver = webdriver.Firefox()
-    return driver     
+import pandas as pd 
+import time 
 def scrape():
  #Scrapes various websites for information about Mars, and returns data in a dictionary
     data_mars = {}  
-    driver = webdriver.Firefox()
     #Get the info from the NASA News Webpage
     nasa_url = "https://mars.nasa.gov/news/"
     driver = webdriver.Firefox()
@@ -18,39 +14,43 @@ def scrape():
     html_nasa = driver.page_source
     # Scrape page into soup
     soup_nasa = BeautifulSoup(html_nasa, 'html.parser')
-    # save the most latest News Title and Paragraph Text 
+    #save the most latest News Title and Paragraph Text 
     #news_date = soup_nasa.find ('div', class_='list_date').text
-    news_title = soup_nasa.find('div', class_='content_title').find('a').text
     news_p = soup_nasa.find('div',class_='article_teaser_body').text
+    news_title = soup_nasa.find('div', class_='content_title').text
     data_mars["News_Title"] = news_title
     data_mars["News_Pargraph"] = news_p
     
     # GEt the featured image of the JPL
     image_url = "https://www.jpl.nasa.gov/spaceimages/?search=&category=Mars"
-    driver = webdriver.Firefox()
     driver.get(image_url)
-   #html_image = driver.page_source
+    html_image = driver.page_source
     driver.find_element_by_partial_link_text("FULL IMAGE").click()
     time.sleep(5)
     html_image = driver.page_source 
-    driver.find_element_by_partial_link_text("more info ").click()
+    driver.find_element_by_partial_link_text("more info").click()
     html_image = driver.page_source 
      # Parse HTML with Beautiful Soup
     jpl_soup = BeautifulSoup(html_image, 'html.parser')
-    # Retrieve Featured Image url 
+     #Retrieve Featured Image url 
     featured_image_url  = jpl_soup.find("img", class_='main_image')['src']
     featured_image_url = f'https://www.jpl.nasa.gov{featured_image_url}' 
     data_mars['featured_image_url'] = featured_image_url
      # Visit the Mars Weather twitter account and scrap the lates Mars weather tweet.
     weather_url = "https://twitter.com/marswxreport?lang=en"
-    driver = webdriver.Firefox()
     driver.get(weather_url)
     # HTML Object 
     html_weather = driver.page_source
     # Scrape page into soup
-    weather_soup = BeautifulSoup(html_weather, 'html.parser')
-    mars_weather_tweet = weather_soup.find ("div", class_="js-tweet-text-container").text.strip()
-    data_mars['weather_summary'] = mars_weather_tweet
+    #weather_soup = BeautifulSoup(html_weather, 'html.parser')
+    #mars_weather_tweet = weather_soup.find("div", 
+    #                                    attrs={
+    #                                        "class": "tweet", 
+    #                                        "data-name": "Mars Weather"
+    #                                     })
+    # Search Within Tweet for <p> Tag Containing Tweet Text
+    #mars_weather = mars_weather_tweet.find("p", "tweet-text").get_text()
+    #data_mars['weather_summary'] = mars_weather_tweet
     # visit space facts and scrap the mars facts table
     facts_url = 'http://space-facts.com/mars/'
     # Use Panda's 'read_html' to parse the url
@@ -66,7 +66,6 @@ def scrape():
     data_mars["fact_table"] = mars_fact_html
     # scrape images of Mars' hemispheres from the USGS site
     hemispheres_url = 'https://astrogeology.usgs.gov/search/results?q=hemisphere+enhanced&k1=target&v1=Mars'
-    driver = webdriver.Firefox()
     driver.get(hemispheres_url)
     # HTML Object 
     html_hemispheres = driver.page_source

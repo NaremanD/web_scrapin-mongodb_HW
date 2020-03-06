@@ -1998,3 +1998,366 @@ JavaScript error: https://mars.nasa.gov/assets/mb_manifest-a0ae601bc18c852649e35
 1583340532478	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript warning: https://mars.nasa.gov/assets/public_manifest-076cf7f80cccb4056eac0fffddf9360fd7fa7cc779f9b9a2f48d0b629ea11fd1.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
 JavaScript error: https://mars.nasa.gov/assets/mb_manifest-a0ae601bc18c852649e350709ab440161da58529f782ae84172c21f8ea27b714.js, line 1: TypeError: this.setViewportHeightVariable is not a function
+1583374109515	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cw/yck603bd6s7_c7xyf_pfc2w40000gn/T/rust_mozprofileWleQPr"
+1583374109997	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583374110265	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583374110265	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583374110266	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583374110266	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583374111845	Marionette	INFO	Listening on port 56129
+1583374111886	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583374112927	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cw/yck603bd6s7_c7xyf_pfc2w40000gn/T/rust_mozprofilek8vBUC"
+1583374113278	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583374113489	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583374113489	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583374113490	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583374113490	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583374115034	Marionette	INFO	Listening on port 56271
+1583374115076	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mars.nasa.gov/assets/public_manifest-076cf7f80cccb4056eac0fffddf9360fd7fa7cc779f9b9a2f48d0b629ea11fd1.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://mars.nasa.gov/assets/mb_manifest-a0ae601bc18c852649e350709ab440161da58529f782ae84172c21f8ea27b714.js, line 1: TypeError: this.setViewportHeightVariable is not a function
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1583374264118	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cw/yck603bd6s7_c7xyf_pfc2w40000gn/T/rust_mozprofileMOaypN"
+1583374264457	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583374264664	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583374264664	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583374264664	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583374264664	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583374266188	Marionette	INFO	Listening on port 59999
+1583374266271	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583374267309	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cw/yck603bd6s7_c7xyf_pfc2w40000gn/T/rust_mozprofileoPRjSt"
+1583374267649	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583374267853	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583374267853	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583374267853	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583374267853	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583374269338	Marionette	INFO	Listening on port 60131
+1583374269365	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mars.nasa.gov/assets/public_manifest-076cf7f80cccb4056eac0fffddf9360fd7fa7cc779f9b9a2f48d0b629ea11fd1.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://mars.nasa.gov/assets/mb_manifest-a0ae601bc18c852649e350709ab440161da58529f782ae84172c21f8ea27b714.js, line 1: TypeError: this.setViewportHeightVariable is not a function
+1583466584361	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cw/yck603bd6s7_c7xyf_pfc2w40000gn/T/rust_mozprofileTHhuJj"
+1583466584883	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583466585084	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583466585084	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583466585085	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583466585085	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583466586747	Marionette	INFO	Listening on port 51438
+1583466586813	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mars.nasa.gov/assets/public_manifest-076cf7f80cccb4056eac0fffddf9360fd7fa7cc779f9b9a2f48d0b629ea11fd1.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://mars.nasa.gov/assets/mb_manifest-a0ae601bc18c852649e350709ab440161da58529f782ae84172c21f8ea27b714.js, line 1: TypeError: this.setViewportHeightVariable is not a function
+1583467015034	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cw/yck603bd6s7_c7xyf_pfc2w40000gn/T/rust_mozprofile6CVBy6"
+1583467015359	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583467015547	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583467015547	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583467015548	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583467015548	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583467017002	Marionette	INFO	Listening on port 62716
+1583467017081	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mars.nasa.gov/assets/public_manifest-076cf7f80cccb4056eac0fffddf9360fd7fa7cc779f9b9a2f48d0b629ea11fd1.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://mars.nasa.gov/assets/mb_manifest-a0ae601bc18c852649e350709ab440161da58529f782ae84172c21f8ea27b714.js, line 1: TypeError: this.setViewportHeightVariable is not a function
+1583467122314	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cw/yck603bd6s7_c7xyf_pfc2w40000gn/T/rust_mozprofilepi9y9e"
+1583467122636	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583467122823	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583467122823	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583467122823	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583467122823	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583467124187	Marionette	INFO	Listening on port 64953
+1583467124264	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mars.nasa.gov/assets/public_manifest-076cf7f80cccb4056eac0fffddf9360fd7fa7cc779f9b9a2f48d0b629ea11fd1.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://mars.nasa.gov/assets/mb_manifest-a0ae601bc18c852649e350709ab440161da58529f782ae84172c21f8ea27b714.js, line 1: TypeError: this.setViewportHeightVariable is not a function
+1583467377330	Marionette	INFO	Stopped listening on port 64953
+1583467379846	Marionette	INFO	Stopped listening on port 62716
+1583467382942	Marionette	INFO	Stopped listening on port 51438
+1583467456475	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cw/yck603bd6s7_c7xyf_pfc2w40000gn/T/rust_mozprofilecUJhvK"
+1583467456796	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583467456992	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583467456992	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583467456992	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583467456992	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583467458407	Marionette	INFO	Listening on port 55228
+1583467458423	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mars.nasa.gov/assets/public_manifest-076cf7f80cccb4056eac0fffddf9360fd7fa7cc779f9b9a2f48d0b629ea11fd1.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://mars.nasa.gov/assets/mb_manifest-a0ae601bc18c852649e350709ab440161da58529f782ae84172c21f8ea27b714.js, line 1: TypeError: this.setViewportHeightVariable is not a function
+1583467872799	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cw/yck603bd6s7_c7xyf_pfc2w40000gn/T/rust_mozprofile3Skdy7"
+1583467873150	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583467873349	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583467873350	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583467873350	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583467873350	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583467874728	Marionette	INFO	Listening on port 50653
+1583467874749	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mars.nasa.gov/assets/public_manifest-076cf7f80cccb4056eac0fffddf9360fd7fa7cc779f9b9a2f48d0b629ea11fd1.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://mars.nasa.gov/assets/mb_manifest-a0ae601bc18c852649e350709ab440161da58529f782ae84172c21f8ea27b714.js, line 1: TypeError: this.setViewportHeightVariable is not a function
+1583472778098	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cw/yck603bd6s7_c7xyf_pfc2w40000gn/T/rust_mozprofileg2fjvu"
+1583472778429	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583472778616	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583472778616	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583472778616	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583472778616	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583472780089	Marionette	INFO	Listening on port 49744
+1583472780163	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mars.nasa.gov/assets/public_manifest-076cf7f80cccb4056eac0fffddf9360fd7fa7cc779f9b9a2f48d0b629ea11fd1.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://mars.nasa.gov/assets/mb_manifest-a0ae601bc18c852649e350709ab440161da58529f782ae84172c21f8ea27b714.js, line 1: TypeError: this.setViewportHeightVariable is not a function
+1583472948345	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cw/yck603bd6s7_c7xyf_pfc2w40000gn/T/rust_mozprofile5b0TOJ"
+1583472948687	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583472948885	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583472948885	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583472948885	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583472948885	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583472950235	Marionette	INFO	Listening on port 50991
+1583472950308	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mars.nasa.gov/assets/public_manifest-076cf7f80cccb4056eac0fffddf9360fd7fa7cc779f9b9a2f48d0b629ea11fd1.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://mars.nasa.gov/assets/mb_manifest-a0ae601bc18c852649e350709ab440161da58529f782ae84172c21f8ea27b714.js, line 1: TypeError: this.setViewportHeightVariable is not a function
+1583473011021	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cw/yck603bd6s7_c7xyf_pfc2w40000gn/T/rust_mozprofileQh3r05"
+1583473011346	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583473011545	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583473011545	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583473011545	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583473011545	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583473012903	Marionette	INFO	Listening on port 51090
+1583473012981	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mars.nasa.gov/assets/public_manifest-076cf7f80cccb4056eac0fffddf9360fd7fa7cc779f9b9a2f48d0b629ea11fd1.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://mars.nasa.gov/assets/mb_manifest-a0ae601bc18c852649e350709ab440161da58529f782ae84172c21f8ea27b714.js, line 1: TypeError: this.setViewportHeightVariable is not a function
+1583473143831	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cw/yck603bd6s7_c7xyf_pfc2w40000gn/T/rust_mozprofileNkBiIT"
+1583473144180	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583473144384	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583473144384	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583473144384	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583473144384	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583473145839	Marionette	INFO	Listening on port 51222
+1583473145885	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mars.nasa.gov/assets/public_manifest-076cf7f80cccb4056eac0fffddf9360fd7fa7cc779f9b9a2f48d0b629ea11fd1.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://mars.nasa.gov/assets/mb_manifest-a0ae601bc18c852649e350709ab440161da58529f782ae84172c21f8ea27b714.js, line 1: TypeError: this.setViewportHeightVariable is not a function
+1583473296807	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cw/yck603bd6s7_c7xyf_pfc2w40000gn/T/rust_mozprofiletQD0cl"
+1583473297147	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583473297342	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583473297342	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583473297342	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583473297342	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583473298789	Marionette	INFO	Listening on port 51379
+1583473298875	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mars.nasa.gov/assets/public_manifest-076cf7f80cccb4056eac0fffddf9360fd7fa7cc779f9b9a2f48d0b629ea11fd1.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://mars.nasa.gov/assets/mb_manifest-a0ae601bc18c852649e350709ab440161da58529f782ae84172c21f8ea27b714.js, line 1: TypeError: this.setViewportHeightVariable is not a function
+1583473344653	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cw/yck603bd6s7_c7xyf_pfc2w40000gn/T/rust_mozprofileLz6mEz"
+1583473345001	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583473345213	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583473345213	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583473345213	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583473345214	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583473346720	Marionette	INFO	Listening on port 51485
+1583473346823	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mars.nasa.gov/assets/public_manifest-076cf7f80cccb4056eac0fffddf9360fd7fa7cc779f9b9a2f48d0b629ea11fd1.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://mars.nasa.gov/assets/mb_manifest-a0ae601bc18c852649e350709ab440161da58529f782ae84172c21f8ea27b714.js, line 1: TypeError: this.setViewportHeightVariable is not a function
+1583473415341	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cw/yck603bd6s7_c7xyf_pfc2w40000gn/T/rust_mozprofile6ZrofK"
+1583473415716	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583473415924	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583473415924	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583473415924	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583473415924	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583473417505	Marionette	INFO	Listening on port 51629
+1583473417526	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mars.nasa.gov/assets/public_manifest-076cf7f80cccb4056eac0fffddf9360fd7fa7cc779f9b9a2f48d0b629ea11fd1.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://mars.nasa.gov/assets/mb_manifest-a0ae601bc18c852649e350709ab440161da58529f782ae84172c21f8ea27b714.js, line 1: TypeError: this.setViewportHeightVariable is not a function
+1583473481252	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cw/yck603bd6s7_c7xyf_pfc2w40000gn/T/rust_mozprofilefRyE0c"
+1583473481630	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583473481848	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583473481848	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583473481849	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583473481849	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583473483473	Marionette	INFO	Listening on port 51755
+1583473483534	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mars.nasa.gov/assets/public_manifest-076cf7f80cccb4056eac0fffddf9360fd7fa7cc779f9b9a2f48d0b629ea11fd1.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://mars.nasa.gov/assets/mb_manifest-a0ae601bc18c852649e350709ab440161da58529f782ae84172c21f8ea27b714.js, line 1: TypeError: this.setViewportHeightVariable is not a function
+1583473508792	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cw/yck603bd6s7_c7xyf_pfc2w40000gn/T/rust_mozprofilezSjxl5"
+1583473509211	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583473509427	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583473509427	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583473509427	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583473509427	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583473511013	Marionette	INFO	Listening on port 51871
+1583473511091	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mars.nasa.gov/assets/public_manifest-076cf7f80cccb4056eac0fffddf9360fd7fa7cc779f9b9a2f48d0b629ea11fd1.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://mars.nasa.gov/assets/mb_manifest-a0ae601bc18c852649e350709ab440161da58529f782ae84172c21f8ea27b714.js, line 1: TypeError: this.setViewportHeightVariable is not a function
+1583473680014	Marionette	INFO	Stopped listening on port 51871
+1583473683068	Marionette	INFO	Stopped listening on port 51755
+1583473687017	Marionette	INFO	Stopped listening on port 51629
+1583473689595	Marionette	INFO	Stopped listening on port 51485
+1583473691863	Marionette	INFO	Stopped listening on port 51379
+1583473694708	Marionette	INFO	Stopped listening on port 51222
+1583473698160	Marionette	INFO	Stopped listening on port 51090
+1583473700652	Marionette	INFO	Stopped listening on port 50991
+1583476891949	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cw/yck603bd6s7_c7xyf_pfc2w40000gn/T/rust_mozprofilepRW5p2"
+1583476892627	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583476892663	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583476892663	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583476892663	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583476892663	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583476895246	Marionette	INFO	Listening on port 53812
+1583476895342	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583476929188	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cw/yck603bd6s7_c7xyf_pfc2w40000gn/T/rust_mozprofileosHtj6"
+1583476929785	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583476929822	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583476929822	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583476929822	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583476929823	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583476932457	Marionette	INFO	Listening on port 53877
+1583476932496	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583477356452	Marionette	INFO	Stopped listening on port 53877
+1583477358704	Marionette	INFO	Stopped listening on port 53812
+1583509226179	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cw/yck603bd6s7_c7xyf_pfc2w40000gn/T/rust_mozprofile4UIMDp"
+1583509226695	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583509226897	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583509226897	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583509226898	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583509226898	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583509228675	Marionette	INFO	Listening on port 49613
+1583509228736	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mars.nasa.gov/assets/public_manifest-076cf7f80cccb4056eac0fffddf9360fd7fa7cc779f9b9a2f48d0b629ea11fd1.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://mars.nasa.gov/assets/mb_manifest-a0ae601bc18c852649e350709ab440161da58529f782ae84172c21f8ea27b714.js, line 1: TypeError: this.setViewportHeightVariable is not a function
+1583509284947	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cw/yck603bd6s7_c7xyf_pfc2w40000gn/T/rust_mozprofilexRJIgn"
+1583509285289	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583509285492	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583509285492	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583509285492	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583509285492	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583509286806	Marionette	INFO	Listening on port 49747
+1583509286887	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mars.nasa.gov/assets/public_manifest-076cf7f80cccb4056eac0fffddf9360fd7fa7cc779f9b9a2f48d0b629ea11fd1.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://mars.nasa.gov/assets/mb_manifest-a0ae601bc18c852649e350709ab440161da58529f782ae84172c21f8ea27b714.js, line 1: TypeError: this.setViewportHeightVariable is not a function
+1583509366615	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cw/yck603bd6s7_c7xyf_pfc2w40000gn/T/rust_mozprofileSdqGCV"
+1583509366934	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583509367122	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583509367123	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583509367123	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583509367123	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583509368547	Marionette	INFO	Listening on port 49881
+1583509368566	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mars.nasa.gov/assets/public_manifest-076cf7f80cccb4056eac0fffddf9360fd7fa7cc779f9b9a2f48d0b629ea11fd1.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://mars.nasa.gov/assets/mb_manifest-a0ae601bc18c852649e350709ab440161da58529f782ae84172c21f8ea27b714.js, line 1: TypeError: this.setViewportHeightVariable is not a function
+1583509595128	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cw/yck603bd6s7_c7xyf_pfc2w40000gn/T/rust_mozprofileOybH0M"
+1583509595454	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583509595653	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583509595653	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583509595653	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583509595653	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583509597015	Marionette	INFO	Listening on port 50104
+1583509597067	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mars.nasa.gov/assets/public_manifest-076cf7f80cccb4056eac0fffddf9360fd7fa7cc779f9b9a2f48d0b629ea11fd1.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://mars.nasa.gov/assets/mb_manifest-a0ae601bc18c852649e350709ab440161da58529f782ae84172c21f8ea27b714.js, line 1: TypeError: this.setViewportHeightVariable is not a function
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1583509650731	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cw/yck603bd6s7_c7xyf_pfc2w40000gn/T/rust_mozprofileyUINJM"
+1583509651059	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583509651248	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583509651248	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583509651248	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583509651249	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583509652842	Marionette	INFO	Listening on port 50226
+1583509652883	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mars.nasa.gov/assets/public_manifest-076cf7f80cccb4056eac0fffddf9360fd7fa7cc779f9b9a2f48d0b629ea11fd1.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://mars.nasa.gov/assets/mb_manifest-a0ae601bc18c852649e350709ab440161da58529f782ae84172c21f8ea27b714.js, line 1: TypeError: this.setViewportHeightVariable is not a function
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1583509897099	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cw/yck603bd6s7_c7xyf_pfc2w40000gn/T/rust_mozprofiletZ3hak"
+1583509897442	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583509897644	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583509897644	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583509897644	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583509897644	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583509898988	Marionette	INFO	Listening on port 50653
+1583509899045	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mars.nasa.gov/assets/public_manifest-076cf7f80cccb4056eac0fffddf9360fd7fa7cc779f9b9a2f48d0b629ea11fd1.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://mars.nasa.gov/assets/mb_manifest-a0ae601bc18c852649e350709ab440161da58529f782ae84172c21f8ea27b714.js, line 1: TypeError: this.setViewportHeightVariable is not a function
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1583510016311	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cw/yck603bd6s7_c7xyf_pfc2w40000gn/T/rust_mozprofilevvhrKb"
+1583510016628	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583510016824	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583510016824	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583510016825	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583510016825	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583510018145	Marionette	INFO	Listening on port 50806
+1583510018159	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mars.nasa.gov/assets/public_manifest-076cf7f80cccb4056eac0fffddf9360fd7fa7cc779f9b9a2f48d0b629ea11fd1.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://mars.nasa.gov/assets/mb_manifest-a0ae601bc18c852649e350709ab440161da58529f782ae84172c21f8ea27b714.js, line 1: TypeError: this.setViewportHeightVariable is not a function
+1583510229957	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cw/yck603bd6s7_c7xyf_pfc2w40000gn/T/rust_mozprofileqxPAs5"
+1583510230271	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583510230471	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583510230471	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583510230471	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583510230471	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583510231803	Marionette	INFO	Listening on port 51050
+1583510231901	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mars.nasa.gov/assets/public_manifest-076cf7f80cccb4056eac0fffddf9360fd7fa7cc779f9b9a2f48d0b629ea11fd1.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://mars.nasa.gov/assets/mb_manifest-a0ae601bc18c852649e350709ab440161da58529f782ae84172c21f8ea27b714.js, line 1: TypeError: this.setViewportHeightVariable is not a function
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1583510378157	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cw/yck603bd6s7_c7xyf_pfc2w40000gn/T/rust_mozprofilegnUwCB"
+1583510378484	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583510378680	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583510378680	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583510378681	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583510378681	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583510380036	Marionette	INFO	Listening on port 51337
+1583510380125	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mars.nasa.gov/assets/public_manifest-076cf7f80cccb4056eac0fffddf9360fd7fa7cc779f9b9a2f48d0b629ea11fd1.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://mars.nasa.gov/assets/mb_manifest-a0ae601bc18c852649e350709ab440161da58529f782ae84172c21f8ea27b714.js, line 1: TypeError: this.setViewportHeightVariable is not a function
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1583510429268	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cw/yck603bd6s7_c7xyf_pfc2w40000gn/T/rust_mozprofileS8aO3A"
+1583510429589	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583510429781	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583510429781	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583510429781	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583510429781	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583510431192	Marionette	INFO	Listening on port 51477
+1583510431202	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mars.nasa.gov/assets/public_manifest-076cf7f80cccb4056eac0fffddf9360fd7fa7cc779f9b9a2f48d0b629ea11fd1.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://mars.nasa.gov/assets/mb_manifest-a0ae601bc18c852649e350709ab440161da58529f782ae84172c21f8ea27b714.js, line 1: TypeError: this.setViewportHeightVariable is not a function
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://twitter.com/marswxreport?lang=en, line 148: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable

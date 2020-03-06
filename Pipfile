@@ -17,6 +17,7 @@ lxml = "*"
 splinter = "*"
 flask = "*"
 flask-pymongo = "*"
+ipykernel = "*"
 
 [requires]
 python_version = "3.8"
